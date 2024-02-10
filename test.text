@@ -1,6 +1,10 @@
 hello welcome to git tut.
 commit 2 added
 added
+<<<<<<< HEAD
+zzzzzzzzzzzzzzzzzzzzzzzzzz
+=======
 aaa
 ccc
 vvv
+>>>>>>> 44fe845ca91cc7e7d55262d1f566ec483d53627c
